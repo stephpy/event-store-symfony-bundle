@@ -53,10 +53,10 @@
   },
   "require": {
     "php": "^7.1",
-    "symfony/config": "~2.8 || ~3.0",
-    "symfony/dependency-injection": "~2.8 || ~3.0",
-    "symfony/http-kernel": "~2.8 || ~3.0",
-    "symfony/framework-bundle": "~2.8 || ~3.0",
+    "symfony/config": ">=2.8, <5.0",
+    "symfony/dependency-injection": ">=2.8, <5.0",
+    "symfony/http-kernel": ">=2.8, <5.0",
+    "symfony/framework-bundle": ">=2.8, <5.0",
     "prooph/event-store": "^7.0"
   },
   "require-dev": {
